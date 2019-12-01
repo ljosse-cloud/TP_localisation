@@ -1,4 +1,0 @@
-matplotlib
-Pillow>=6.0.0
-folium
-
