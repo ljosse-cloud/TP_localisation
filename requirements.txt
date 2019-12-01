@@ -1,0 +1,6 @@
+matplotlib
+branca
+jinja2
+requests
+folium
+
